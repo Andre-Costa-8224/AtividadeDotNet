@@ -1,0 +1,15 @@
+/home/andre/Documentos/senaidotnet/Atividade/bin/Debug/net6.0/Atividade
+/home/andre/Documentos/senaidotnet/Atividade/bin/Debug/net6.0/Atividade.deps.json
+/home/andre/Documentos/senaidotnet/Atividade/bin/Debug/net6.0/Atividade.runtimeconfig.json
+/home/andre/Documentos/senaidotnet/Atividade/bin/Debug/net6.0/Atividade.dll
+/home/andre/Documentos/senaidotnet/Atividade/bin/Debug/net6.0/ref/Atividade.dll
+/home/andre/Documentos/senaidotnet/Atividade/bin/Debug/net6.0/Atividade.pdb
+/home/andre/Documentos/senaidotnet/Atividade/obj/Debug/net6.0/Atividade.csproj.AssemblyReference.cache
+/home/andre/Documentos/senaidotnet/Atividade/obj/Debug/net6.0/Atividade.GeneratedMSBuildEditorConfig.editorconfig
+/home/andre/Documentos/senaidotnet/Atividade/obj/Debug/net6.0/Atividade.AssemblyInfoInputs.cache
+/home/andre/Documentos/senaidotnet/Atividade/obj/Debug/net6.0/Atividade.AssemblyInfo.cs
+/home/andre/Documentos/senaidotnet/Atividade/obj/Debug/net6.0/Atividade.csproj.CoreCompileInputs.cache
+/home/andre/Documentos/senaidotnet/Atividade/obj/Debug/net6.0/Atividade.dll
+/home/andre/Documentos/senaidotnet/Atividade/obj/Debug/net6.0/ref/Atividade.dll
+/home/andre/Documentos/senaidotnet/Atividade/obj/Debug/net6.0/Atividade.pdb
+/home/andre/Documentos/senaidotnet/Atividade/obj/Debug/net6.0/Atividade.genruntimeconfig.cache
